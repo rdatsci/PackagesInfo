@@ -5,6 +5,9 @@ These pages detail general information, coding conventions and build process ins
 
 [Package Installation Information](https://github.com/tudo-r/PackagesInfo/wiki/Installation-Information)
 
+[CRAN Submission Checklist](https://github.com/tudo-r/PackagesInfo/wiki/CRAN-Submission-Checklist)
+
+
 TODOS
 
 * General remarks on package development
