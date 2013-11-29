@@ -5,14 +5,15 @@ These pages detail general information, coding conventions and build process ins
 
 [Package Installation Information](https://github.com/tudo-r/PackagesInfo/wiki/Installation-Information)
 
-[CRAN Submission Checklist](https://github.com/tudo-r/PackagesInfo/wiki/CRAN-Submission-Checklist)
-
+[R Style Guide](https://github.com/tudo-r/PackagesInfo/wiki/R-Style-Guide)
+
+[CRAN Submission Checklist](https://github.com/tudo-r/PackagesInfo/wiki/R)
+
+How to develop R packages:
+[Read the section in Hadley's page on advanced R programming](http://adv-r.had.co.nz/#package-development)
+
 
 TODOS
-
-* General remarks on package development
-
-* Naming conventions and style guide
 
 * Expalin Travis CI briefly
 
