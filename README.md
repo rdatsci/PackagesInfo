@@ -5,6 +5,8 @@ These pages detail general information, coding conventions and build process ins
 
 [Package Installation Information](https://github.com/tudo-r/PackagesInfo/wiki/Installation-Information)
 
+[makeR tool chain](https://github.com/tudo-r/makeR)
+
 [R Style Guide](https://github.com/tudo-r/PackagesInfo/wiki/R-Style-Guide)
 
 [CRAN Submission Checklist](https://github.com/tudo-r/PackagesInfo/wiki/R)
