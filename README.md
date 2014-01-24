@@ -9,7 +9,7 @@ These pages detail general information, coding conventions and build process ins
 
 [R Style Guide](https://github.com/tudo-r/PackagesInfo/wiki/R-Style-Guide)
 
-[CRAN Submission Checklist](https://github.com/tudo-r/PackagesInfo/wiki/R)
+[CRAN Submission Checklist](https://github.com/tudo-r/PackagesInfo/wiki/CRAN-Submission-Checklist)
 
 How to develop R packages:
 [Read the section in Hadley's page on advanced R programming](http://adv-r.had.co.nz/#package-development)
