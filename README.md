@@ -5,7 +5,7 @@ These pages detail general information, coding conventions and build process ins
 
 [Package Installation Information](https://github.com/tudo-r/PackagesInfo/wiki/Installation-Information)
 
-[makeR tool chain](https://github.com/tudo-r/makeR)
+[rt command line tool for build, test and check](https://github.com/rdatsci/rt)
 
 [R Style Guide](https://github.com/tudo-r/PackagesInfo/wiki/R-Style-Guide)
 
