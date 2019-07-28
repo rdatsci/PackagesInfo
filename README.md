@@ -17,6 +17,6 @@ How to develop R packages:
 
 TODOS
 
-* Expalin Travis CI briefly
+* Explain Travis CI briefly
 
 * List packages and dependencies for GitHub. We must be able to automate this, right?
